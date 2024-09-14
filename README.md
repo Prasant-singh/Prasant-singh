@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="Github_profile.png" height="175px"/></a>
 
 <h1 align="center">‼‼‼‼‼‼‼‼Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prasant Singh Tanwar‼‼‼‼‼‼‼‼</h1>
 <h3 align="center">I'm a passionate AI/ML Developer from India.</h3>
