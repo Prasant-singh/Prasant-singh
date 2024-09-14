@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Becorperate](https://devfolio.co/projects/becorperate-b84b)**
+- 🔭 I’m currently diving deep into the world of **[Data Science]**, honing my skills through hands-on learning with **[Edureka]**.
 
 - 🌱 I’m currently learning **ML, DL, and AI many more**
 
